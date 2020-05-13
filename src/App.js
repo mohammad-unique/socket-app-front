@@ -1,7 +1,7 @@
 import React from 'react';
 import {BrowserRouter, Route, Switch} from "react-router-dom";
-import LoginPage from "./page/LoginPage";
-import ChatRoom from "./chatroom/ChatRoom";
+import LoginPage from "./pages/login/LoginPage";
+import ChatRoom from "./pages/chatroom/ChatRoom";
 
 
 const App = () => {
